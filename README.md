@@ -2,8 +2,9 @@
 
 ## 1. Pipeline of MLMatch
 
-![Framework](.\doc\Framework.PNG)
-
+<center>
+    <img src=".\doc\Framework.PNG"/>
+</center>
 ## 2. Input
 
 <center class="half">
