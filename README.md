@@ -23,7 +23,7 @@
 <div align='center'>
     <img src=".\doc\KNN_2089.jpg" width="400"/><img src=".\doc\MLMatch_942.jpg"width="400"/>
 </div>
-                              (a) KNN                                       (b) Training image
+                              (a) KNN                                       (b) Ours
 ## 5. 3rdParty
 
 You can download dependents for running MLMatch from https://pan.baidu.com/s/1s6bjW4ugbAA5Aocf6rVZvQ with extraction code: 9noi.
