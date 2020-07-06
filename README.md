@@ -17,13 +17,13 @@
 <div align='center'>
     <img src=".\doc\LeftKeypoints.jpg" width="400"/><img src=".\doc\RightKeypoints.jpg"width="400"/>
 </div>
-                                                    (a) Query image      (b) Training image
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  (a) Query image    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    (b) Training image
 
 ## 4. Matches
 <div align='center'>
     <img src=".\doc\KNN_2089.jpg" width="400"/><img src=".\doc\MLMatch_942.jpg"width="400"/>
 </div>
-                                                    (a) KNN       (b) Ours
+ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp (a) KNN    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp    (b) Ours
 
 ## 5. 3rdParty
 
