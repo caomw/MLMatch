@@ -2,7 +2,7 @@
 
 ## 1. Pipeline of MLMatch
 
-![Framework(.\doc\Framework.PNG)
+![Framework](.\doc\Framework.PNG)
 
 ## 2. Input
 
