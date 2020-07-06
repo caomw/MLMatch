@@ -3,28 +3,27 @@
 ## 1. Pipeline of MLMatch
 
 <center>
-    <img src=".\doc\Framework.PNG"/>
+    <img src=".\doc\MLM.PNG"/>
 </center>
+
 ## 2. Input
 
-<center class="half">
+<div align='center'>
     <img src=".\input\colosseum\img1.jpg" width="400"/><img src=".\input\colosseum\img2.jpg"width="400"/>
-</center>
-​                                (a) Query image                                                             (b) Training image
+</div>
+                         (a) Query image                                   (b) Training image
 
 ## 3. Keypoints
-<center class="half">
+<div align='center'>
     <img src=".\doc\LeftKeypoints.jpg" width="400"/><img src=".\doc\RightKeypoints.jpg"width="400"/>
-</center>
-​                                (a) Query image                                                             (b) Training image
-
+</div>
+                         (a) Query image                                   (b) Training image
 
 ## 4. Matches
-<center class="half">
+<div align='center'>
     <img src=".\doc\KNN_2089.jpg" width="400"/><img src=".\doc\MLMatch_942.jpg"width="400"/>
-</center>
-​                                (a) KNN                                                                                      (b) Ours
-
+</div>
+                              (a) KNN                                       (b) Training image
 ## 5. 3rdParty
 
 You can download dependents for running MLMatch from https://pan.baidu.com/s/1s6bjW4ugbAA5Aocf6rVZvQ with extraction code: 9noi.
