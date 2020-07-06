@@ -11,8 +11,8 @@
 <div align='center'>
     <img src=".\input\colosseum\img1.jpg" width="400"/><img src=".\input\colosseum\img2.jpg"width="400"/>
 </div>
-     (a) Query image       (b) Training image
-
+  &nbsp   &nbsp    &nbsp    &nbsp    &nbsp    &nbsp    (a) Query image       (b) Training image
+  
 ## 3. Keypoints
 <div align='center'>
     <img src=".\doc\LeftKeypoints.jpg" width="400"/><img src=".\doc\RightKeypoints.jpg"width="400"/>
