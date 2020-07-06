@@ -27,6 +27,6 @@
 
 ## 5. 3rdParty
 
-You can download dependents for running MLMatch from https://pan.baidu.com/s/1s6bjW4ugbAA5Aocf6rVZvQ with extraction code: 9noi.
+You can download the dependent libraries for running MLMatch from https://pan.baidu.com/s/1s6bjW4ugbAA5Aocf6rVZvQ with extraction code: 9noi.
 
 Note: If you have any questions please feel free to contact Mingwei Cao by Email: [cmwqq2008@163.com](mailto:cmwqq2008@163.com).
