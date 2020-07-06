@@ -3,7 +3,7 @@
 ## 1. Pipeline of MLMatch
 
 <center>
-    <img src=".\doc\MLM.PNG"/>
+    <img src=".\doc\Framework.PNG"/>
 </center>
 
 ## 2. Input
